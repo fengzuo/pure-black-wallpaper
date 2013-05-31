@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >PureBlack
+    </string>
+    <string name="apply_button" >Apply
+    </string>
+    <string name="pure_black_wallpaper_content" >Apply the pure black wallpaper to your device.
+    </string>
+
+</resources>
