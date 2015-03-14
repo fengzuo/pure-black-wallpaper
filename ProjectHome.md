@@ -1,0 +1,1 @@
+A simple android app that apply a black wallpaper to save battery life.
